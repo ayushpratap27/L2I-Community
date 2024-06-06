@@ -161,6 +161,22 @@
     * [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/)
     * [Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/)
     * [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
+ 
+* ### Day 19 (Stacks and Queues)
+    * [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)
+    * [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)
+    * [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/description/)
+    * [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/)
+    * [Car Fleet](https://leetcode.com/problems/car-fleet/description/)
+    * [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/description/)
+   
+* ### Day 20 (Stacks and Queues)
+    * [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/)
+    * [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/)
+    * [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/description/)
+    * [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/description/)
+    * [Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/description/)
+    * [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/)
    
 
 <br>
